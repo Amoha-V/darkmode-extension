@@ -2,7 +2,13 @@
 A Chrome extension that allows you to toggle between light and dark mode on any website.
 # Appearance - Chrome Extension
 
-Appearance is a Chrome extension that allows you to easily switch between light and dark mode on any website.
+Appearance is a Chrome extension that allows you to easily switch between light and dark mode on any website. This project was developed as a way to gain a better understanding of JSON files and their use in Chrome extensions.
+
+## Motivation
+
+JSON (JavaScript Object Notation) is a lightweight data interchange format that is easy for humans to read and write, and easy for machines to parse and generate. It is often used in web development, including the creation of Chrome extensions, where it is used to define the extension's metadata, permissions, and other configuration settings.
+
+By creating this Appearance extension, the project aims to provide a practical example of how JSON files are used in the development of a Chrome extension. Through the process of building this project, gained a deeper understanding of the structure and usage of JSON files, as well as how they integrate with the various components of a Chrome extension.
 
 ## Features
 
